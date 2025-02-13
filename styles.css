@@ -1,0 +1,82 @@
+body{
+    font-family: arial, sans-serif;
+   background-color:  #d6d6d6;
+   display: flex;
+   justify-content: center;
+
+}
+h1{
+    color: rgb(156, 9, 156);
+    padding: 10px 0;
+    font-size: 28px;
+    text-align: center;
+    padding: 10px;
+
+}
+hr{
+    border: none;
+    height: 2px;
+    background-color: #9c0795;
+    margin: 15px 0;
+}
+
+.p{
+    max-width: 600px; /* Reduce el ancho del contenido */
+    margin: 20px auto; /* Centra el contenido */
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+
+}
+ .entrada{
+    margin: 3px;
+    border: 1px solid #cecececb;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #eeeffd; 
+    padding: 20px;
+}
+.mis_metas{
+    margin: 3px;
+    border: 1px solid #fd8e97cb;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #faecec; 
+    padding: 20px;
+   
+}
+.Lecturas{
+    margin: 3px;
+    border: 1px solid #2299a8cb;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #f0fff7; 
+    padding: 20px;
+}
+
+.entrada h2{
+    color:  #2636a8; 
+}
+.mis_metas h2 {
+    color:#0f70a8
+}
+
+.Lecturas h2 {
+    color:  #1b7ab1; 
+}
+
+ul {
+    padding-left: 20px;
+    color: black;
+}
+
+.Lecturas ul li {
+    color: #20964d;
+    
+}
+
+
+
+
